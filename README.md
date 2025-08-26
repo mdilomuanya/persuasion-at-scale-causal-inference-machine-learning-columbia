@@ -1,4 +1,4 @@
-# persuasion-at-scale-causal-inference-machine-learning-columbia
+# Persuasion at Scale: Causal Inference, Machine Learning, and Evidence-Based Understanding of the Information Environment (Columbia University)
 This repository contains my coursework from Persuasion at Scale: Causal Inference, Machine Learning, and Evidence-Based Understanding of the Information Environment (Columbia University). I earned an A in the class, which was co-taught by professors from Political Science and Applied Mathematics, blending social science theory with advanced data analysis techniques.
 
 Key Skills and Tools Learned:
